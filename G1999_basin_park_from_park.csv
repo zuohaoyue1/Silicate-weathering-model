@@ -1,0 +1,50 @@
+,basin,area,discharge,CaMgNaK_sil,CaMg_sil,source,CaMg_sil_norm,CaMgNaK_sil_norm,,Basins,Continent,Region,Ca_Mg,Basin_name,Area_1e6km2
+0,amazon,6112000,6590,1.32E+07,128,Gaillardet et al. (1999),0.000021,2.159686,,Amazon,Southern American,Low,128,amazon,6.112
+1,changjiang,1808000,928,2.50E+06,29,Gaillardet et al. (1999),0.000016,1.382743,,Changjiang,Southern Asia,Low,29,changjiang,1.808
+2,mississippi,2980000,580,5.10E+06,60,Gaillardet et al. (1999),0.00002,1.711409,,Mississippi,Northern American,High,60,mississippi,2.98
+3,irrawady,410000,486,1.71E+07,165,Gaillardet et al. (1999),0.000402,41.707318,,Irrawady,Southern Asia,Low,165,irrawady,0.41
+4,ganges,1630000,1003,9.80E+06,130,Gaillardet et al. (1999),0.00008,6.01227,,Ganges,Southern Asia,Low,130,ganges,1.05
+5,yenissei,2590000,620,3.20E+06,30,Gaillardet et al. (1999),0.000012,1.235521,,Yenisei,Northern Asia,High,30,yenissei,2.59
+6,mackenzie,1787000,308,1.60E+06,19,Gaillardet et al. (1999),0.000011,0.895355,,Mackenzie,Northern American,High,19,mackenzie,1.787
+7,st_lawrence,1020000,337,8.00E+05,9,Gaillardet et al. (1999),0.000009,0.784314,,St. Lawrence,Northern American,High,9,st_lawrence,1.02
+8,lena,2490000,525,1.70E+06,19,Gaillardet et al. (1999),0.000008,0.682731,,Lena,Northern Asia,High,19,lena,2.49
+9,xijiang,437000,363,7.00E+05,9,Gaillardet et al. (1999),0.000021,1.601831,,Xijiang,Southern Asia,Low,9,xijiang,0.437
+10,ob,2990000,404,1.00E+06,11,Gaillardet et al. (1999),0.000004,0.334448,,Ob,Northern Asia,High,11,ob,2.99
+11,parana,2783000,568,3.40E+06,69,Gaillardet et al. (1999),0.000025,1.221703,,Parana,Southern American,Low,69,parana,2.783
+12,mekong,795000,467,4.90E+06,57,Gaillardet et al. (1999),0.000072,6.163522,,Mekong,Southern Asia,Low,57,mekong,0.795
+13,congo,3698000,1200,3.10E+06,34,Gaillardet et al. (1999),0.000009,0.838291,,Congo-Zaire,African,Low,34,congo,3.698
+14,rhine,224000,69.400002,3.00E+05,5,Gaillardet et al. (1999),0.000022,1.339286,,Rhine,Europe,High,5,rhine,0.224
+15,yukon,849000,200,9.00E+05,13,Gaillardet et al. (1999),0.000015,1.060071,,Yukon,Northern American,High,13,yukon,0.849
+16,orinoco,1100000,1135,2.50E+06,29,Gaillardet et al. (1999),0.000026,2.272727,,Orinoco,Southern American,Low,29,orinoco,1.1
+17,magdalena,235000,237,5.00E+05,7,Gaillardet et al. (1999),0.00003,2.12766,,Magdalena,Southern American,Low,7,magdalena,0.235
+18,columbia,669000,236,1.90E+06,30,Gaillardet et al. (1999),0.000045,2.84006,,Columbia,Northern American,High,30,columbia,0.669
+19,indus,916000,90,1.60E+06,19,Gaillardet et al. (1999),0.000021,1.746725,,Indus,Southern Asia,High,19,indus,0.916
+20,nelson,1132000,89.300003,9.00E+05,10,Gaillardet et al. (1999),0.000009,0.795053,,Nelson,Northern American,High,10,nelson,1.132
+21,n_dvina,348000,110,3.00E+05,4,Gaillardet et al. (1999),0.000011,0.862069,,N. Dvina,Northern Asia,High,4,n_dvina,0.348
+22,amur,1855000,344,1.10E+06,13,Gaillardet et al. (1999),0.000007,0.592992,,Amur,Northern Asia,High,13,amur,1.855
+23,huanghe,752000,41,1.60E+06,19,Gaillardet et al. (1999),0.000025,2.12766,,Huanghe,Southern Asia,High,19,huanghe,0.752
+24,rhone,95600,54,1.00E+05,1.4,Gaillardet et al. (1999),0.000015,1.046025,,Rhone,Europe,High,1.4,rhone,0.0956
+25,shatt_el_arab,541300,45.799999,1.20E+06,14,Gaillardet et al. (1999),0.000026,2.216885,,Shatt el Arab,Southern Asia,High,14,shatt_el_arab,0.5413
+26,honghe,120000,123,1.50E+06,17,Gaillardet et al. (1999),0.000142,12.5,,Hong He,Southern Asia,Low,17,honghe,0.12
+27,po,70000,46.700001,6.00E+05,7,Gaillardet et al. (1999),0.0001,8.571429,,Po,Europe,High,7,po,0.07
+28,fly,61000,141,9.00E+05,17,Gaillardet et al. (1999),0.000279,14.754098,,Fly,Arc,Low,17,fly,0.061
+29,tocantins,757000,372,1.00E+06,11,Gaillardet et al. (1999),0.000015,1.321004,,Tocantins,Southern American,Low,11,tocantins,0.757
+30,dnepr,504000,54,5.00E+05,6,Gaillardet et al. (1999),0.000012,0.992063,,Dnepr,Europe,High,6,dnepr,0.504
+31,sepik,78700,120,1.20E+06,22,Gaillardet et al. (1999),0.00028,15.247777,,Sepik,Arc,Low,22,sepik,0.0787
+32,nile,2870000,83,1.80E+06,21,Gaillardet et al. (1999),0.000007,0.627178,,Nile,African,Low,21,nile,2.87
+33,narmada,102000,39,2.30E+06,29,Gaillardet et al. (1999),0.000284,22.549019,,Narmada,Southern Asia,Low,29,narmada,0.102
+34,murray,1060000,23.6,6.00E+05,9,Gaillardet et al. (1999),0.000008,0.566038,,Murray Darling,Australia,High,9,murray,1.06
+35,purari,30600,84.129997,7.00E+05,12,Gaillardet et al. (1999),0.000392,22.875817,,Purari,Arc,Low,12,purari,0.0306
+36,fraser,220000,112,3.00E+05,4,Gaillardet et al. (1999),0.000018,1.363636,,Fraser,Northern American,High,4,fraser,0.22
+37,kolima,660000,132,3.00E+05,3,Gaillardet et al. (1999),0.000005,0.454545,,Kolima,Northern Asia,High,3,kolima,0.66
+38,krishna,259000,30,1.40E+06,18,Gaillardet et al. (1999),0.000069,5.405405,,Krishna,Southern Asia,Low,18,krishna,0.259
+39,pechora,324000,131,1.00E+05,2,Gaillardet et al. (1999),0.000006,0.308642,,Pechora,Northern Asia,High,2,pechora,0.324
+40,niger,1200000,154.100006,4.00E+05,4.2,Gaillardet et al. (1999),0.000003,0.333333,,Niger,African,Low,4.2,niger,1.2
+41,uruguay,240000,145,9.00E+05,18,Gaillardet et al. (1999),0.000075,3.75,,Uruguay,Southern American,High,18,uruguay,0.24
+42,kuskowin,123000,59.900002,2.00E+05,4,Gaillardet et al. (1999),0.000033,1.626016,,Kuskokwin,Northern American,High,4,kuskowin,0.123
+43,cauveri,88000,21,1.50E+06,18,Gaillardet et al. (1999),0.000205,17.045455,,Cauveri,Southern Asia,Low,18,cauveri,0.088
+44,zambese,1330000,103,4.00E+05,4.5,Gaillardet et al. (1999),0.000003,0.300752,,Zambese,African,Low,4.5,zambese,1.33
+45,khatanga,364000,85.300003,4.00E+05,4.2,Gaillardet et al. (1999),0.000012,1.098901,,Khatanga,Northern Asia,High,4.2,khatanga,0.364
+46,seine,78600,12.9,6.00E+04,0.5,Gaillardet et al. (1999),0.000006,0.763359,,Seine,Europe,High,0.5,seine,0.0786
+47,kikori,13200,40.060001,1.00E+05,1.1,Gaillardet et al. (1999),0.000083,7.575758,,Kikori,Arc,Low,1.1,kikori,0.0132
+48,limpopo,440000,26,7.00E+05,8,Gaillardet et al. (1999),0.000018,1.590909,,Limpopo,African,Low,8,limpopo,0.44

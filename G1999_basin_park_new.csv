@@ -1,0 +1,52 @@
+Basins,Continent,Region,Ca_Mg,Basin_name,Area_1e6km2
+Amazon,Southern American,Low,128,amazon,6.112
+Changjiang,Southern Asia,Low,29,changjiang,1.808
+Mississippi,Northern American,High,60,mississippi,2.98
+Irrawady,Southern Asia,Low,165,irrawady,0.41
+Ganges,Southern Asia,Low,130,ganges,1.05
+Yenisei,Northern Asia,High,30,yenissei,2.59
+Mackenzie,Northern American,High,19,mackenzie,1.787
+St. Lawrence,Northern American,High,9,st_lawrence,1.02
+Lena,Northern Asia,High,19,lena,2.49
+Xijiang,Southern Asia,Low,9,xijiang,0.437
+Ob,Northern Asia,High,11,ob,2.99
+Brahmaputra,Southern Asia,Low,19,brahmapoutra,0.58
+Parana,Southern American,Low,69,parana,2.783
+Mekong,Southern Asia,Low,57,mekong,0.795
+Congo-Zaire,African,Low,34,congo,3.698
+Rhine,Europe,High,5,rhine,0.224
+Yukon,Northern American,High,13,yukon,0.849
+Orinoco,Southern American,Low,29,orinoco,1.1
+Magdalena,Southern American,Low,7,magdalena,0.235
+Columbia,Northern American,High,30,columbia,0.669
+Indus,Southern Asia,High,19,indus,0.916
+Don,Europe,High,55,don,0.42
+Nelson,Northern American,High,10,nelson,1.132
+N. Dvina,Northern Asia,High,4,n_dvina,0.348
+Amur,Northern Asia,High,13,amur,1.855
+Huanghe,Southern Asia,High,19,huanghe,0.752
+Rhone,Europe,High,1.4,rhone,0.0956
+Shatt el Arab,Southern Asia,High,14,shatt_el_arab,0.5413
+Hong He,Southern Asia,Low,17,honghe,0.12
+Po,Europe,High,7,po,0.07
+Fly,Arc,Low,17,fly,0.061
+Tocantins,Southern American,Low,11,tocantins,0.757
+Dnepr,Europe,High,6,dnepr,0.504
+Sepik,Arc,Low,22,sepik,0.0787
+Nile,African,Low,21,nile,2.87
+Narmada,Southern Asia,Low,29,narmada,0.102
+Murray Darling,Australia,High,9,murray,1.06
+Purari,Arc,Low,12,purari,0.0306
+Fraser,Northern American,High,4,fraser,0.22
+Kolima,Northern Asia,High,3,kolima,0.66
+Krishna,Southern Asia,Low,18,krishna,0.259
+Pechora,Northern Asia,High,2,pechora,0.324
+Niger,African,Low,4.2,niger,1.2
+Uruguay,Southern American,High,18,uruguay,0.24
+Kuskokwin,Northern American,High,4,kuskowin,0.123
+Cauveri,Southern Asia,Low,18,cauveri,0.088
+Zambese,African,Low,4.5,zambese,1.33
+Khatanga,Northern Asia,High,4.2,khatanga,0.364
+Seine,Europe,High,0.5,seine,0.0786
+Kikori,Arc,Low,1.1,kikori,0.0132
+Limpopo,African,Low,8,limpopo,0.44
